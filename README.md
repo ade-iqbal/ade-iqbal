@@ -1,4 +1,6 @@
 ### Hi, I'm Ade Iqbal
+🏫 student of Information System at Universitas Andalas
+ 
 
 <!--
 **ade-iqbal/ade-iqbal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ade-iqbal&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ade-iqbal&langs_count=5&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+### My Performance on Github
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ade-iqbal&show_icons=true&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ade-iqbal&langs_count=5&layout=compact)
+
+### Currently Learning 📖
+- NodeJs
+- Cloud Computing & Architecture
