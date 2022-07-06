@@ -1,5 +1,5 @@
 ### Hi, I'm Ade Iqbal
-🏫 student of Information System at Universitas Andalas
+🏫 Student of Information System at Universitas Andalas
  
 
 <!--
@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ade-iqbal&show_icons=true&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ade-iqbal&langs_count=5&layout=compact)
 
-### Currently Learning 📖
-- NodeJs
+### Interest 📖
+- NodeJs and Backend Dev
 - Cloud Computing & Architecture
