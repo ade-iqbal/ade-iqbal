@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 ### Interest 📖
 - NodeJs and Backend Dev
-- Cloud Computing & Architecture
+- Cloud Computing & Architecture, especially Google Cloud
