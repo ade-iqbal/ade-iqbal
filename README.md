@@ -1,5 +1,10 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=ade-iqbal&label=Profile%20views&color=0e75b6&style=flat" alt="ade-iqbal" /> </p>
+
 ### Hi, I'm Ade Iqbal
-🏫 Student of Information System at Universitas Andalas
+- 🏫 Student of Information System at Universitas Andalas
+- 🌱 I’m currently learning **Cloud Architecture**
+- 💬 Ask me about **Software Development**
+- 📫 How to reach me: [adeiqbal](www.linkedin.com/in/ade-iqbal)
 
 ### Tech Stack
 ![Javascript](https://img.shields.io/badge/javascript-%230266cb.svg?style=for-the-badge&logo=javascript) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Go](https://img.shields.io/badge/go-%23CC0099.svg?style=for-the-badge&logo=go) ![Springboot](https://img.shields.io/badge/springboot-%23660099.svg?style=for-the-badge&logo=springboot) ![PHP](https://img.shields.io/badge/php-%23FF6501.svg?style=for-the-badge&logo=php) ![Laravel](https://img.shields.io/badge/laravel-%23ffff07.svg?style=for-the-badge&logo=laravel) ![React](https://img.shields.io/badge/react-%23404d59.svg?style=for-the-badge&logo=react) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23FF6501.svg?style=for-the-badge&logo=bootstrap
@@ -23,9 +28,8 @@ Here are some ideas to get you started:
 
 ### My Performance on Github
 
-![](https://github-readme-stats.vercel.app/api?username=ade-iqbal&show_icons=true&count_private=true) </br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ade-iqbal)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ade-iqbal&langs_count=5&layout=compact) 
+| ![](https://github-readme-stats.vercel.app/api?username=ade-iqbal&show_icons=true&count_private=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ade-iqbal&langs_count=5&layout=compact) |
+| ----------- | ----------- |
 
 
 <!--
