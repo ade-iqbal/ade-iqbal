@@ -1,5 +1,3 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=ade-iqbal&label=visitors&color=0e75b6&style=flat" alt="ade-iqbal" /> </p>
-
 ### Hi, I'm Ade Iqbal
 - 🏫 Student of Information System at Universitas Andalas
 - 🌱 I’m currently learning **Cloud Architecture**
